@@ -1,0 +1,12 @@
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/integration/com/bcus/inventory/mgmt/IntegrationTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/util/FileUtil.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/DeleteCommandExecutorTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/valueobject/ItemTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/AbstractCommandExecutorTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/BuyCommandExecutorTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/SellCommandExecutorTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/integration/com/bcus/inventory/mgmt/Threading.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/ReportCommandExecutorTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/InventoryManagerTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/UpdateSellPriceCommandExecutorTest.java
+/Users/wilsonxswu/Desktop/Project/barclay-card-exercise/inventory-management/src/test/java/com/bcus/inventory/mgmt/executor/CreateCommandExecutorTest.java

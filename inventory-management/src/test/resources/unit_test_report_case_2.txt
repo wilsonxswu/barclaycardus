@@ -1,0 +1,9 @@
+               INVENTORY REPORT
+Item Name      Bought At      Sold At        AvailableQty   Value
+---------      ---------      -------        ------------   -------
+ItemA          2.15           5.55           10             21.50
+ItemB          1024.15        3333.33        26             26627.90
+--------------------------------------------------------------------
+Total value                                                 26649.4
+Profit since previous report                                10000.0
+

@@ -1,0 +1,7 @@
+               INVENTORY REPORT
+Item Name      Bought At      Sold At        AvailableQty   Value
+---------      ---------      -------        ------------   -------
+--------------------------------------------------------------------
+Total value                                                 0
+Profit since previous report                                0
+
